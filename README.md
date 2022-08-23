@@ -1,4 +1,4 @@
-## Hello!👋, I am Eduardo Maciel.
+# Hello!👋, I am Eduardo Maciel.
 
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - ⚡ I’m interested in machine learning development.
