@@ -1,6 +1,6 @@
 # Hello!👋, I am Eduardo Maciel.
 
-- 🌱 I’m currently learning JavaScript, HTML and CSS.
+- 🌱 I'm currently perfecting my JavaScript, and studying the React and React Native library.
 - ⚡ I’m interested in machine learning development.
 </br>
 
